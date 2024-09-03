@@ -13,4 +13,6 @@ public class LikeShare{
 
     [BsonElement("sharedAmount")]
     public int sharedAmount { get; set; }
+
+    //comment 1
 }
